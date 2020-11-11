@@ -10,13 +10,13 @@
       <aside id="navigation">
         <ol class="top-level navigation">
           <li class="active">
-            <a href="Analysis.html">Analysis</a>
+            <a href="Analysis">Analysis</a>
           </li>
         <ol>
     <h1><a href="index.html"> Data Analysis and Analytics </a></h1>
     <div id="grid">
       <ol>
-        <li><a href="Analysis.html">ANALYSIS</a></li>
+        <li><a href="Analysis">ANALYSIS</a></li>
       </ol>
     </div>
   </body>
